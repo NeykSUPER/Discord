@@ -1,0 +1,13 @@
+<h3>ЧТО ВЫ УМЕЕТЕ ?</h3>
+<input name="U-1" type="checkbox">Писать коды<br>
+<input name="U-1" type="checkbox">Договариватся<br>
+<input name="U-1" type="checkbox">НИЧЕГО,Буду учится<br>
+<h3>ЗАЧЕМ ВАМ ЭТО НУЖНО ?</h3>
+<input name="N-1" type="checkbox">Просто так<br>
+<input name="N-1" type="checkbox">Мне нравится этот сервер<br>
+<input name="N-1" type="checkbox">Для города<br>
+<input name="N-1" type="checkbox">Мне скучно<br>
+<h3>С КАКИМ СЕРВЕРОМ ВЫ БУДЕТЕ ВОЕВАТЬ ?</h3>
+<input name="V-1" type="checkbox">Незнаю<br>
+<input name="V-1" type="checkbox">Таких серверов куча<br>
+<input name="V-1" type="checkbox">С каким скажут<br>
